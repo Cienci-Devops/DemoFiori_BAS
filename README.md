@@ -17,7 +17,7 @@
 
 ## businesspartners
 
-An SAPUI5 freestyle app to view a list of suppliers (demo)
+An SAPUI5 freestyle app to view a list of suppliers (demo fiori)
 
 ### Starting the generated app
 
